@@ -67,3 +67,8 @@ body{
   object-fit: cover;
   height: 200px;
 }
+
+.filter-btn{
+  margin: 10px;
+  cursor: pointer;
+}
