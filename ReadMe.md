@@ -62,3 +62,9 @@ let listOfRestaurants = [];
 
 Render:- whenever a state variable is update react re- render the component
 
+## ways to apply css in our app
+- Normal css
+- SCSS/SASS
+- styled Components
+- Material Ui,Bootstrap,Chakara UI
+- Tail Wind css
