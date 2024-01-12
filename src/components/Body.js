@@ -27,7 +27,7 @@ const Body = () => {
     // Optional Chaining
 
     const vai =
-      json?.data?.cards[3]?.card?.card?.gridElements?.infoWithStyle
+      json?.data?.cards[4]?.card?.card?.gridElements?.infoWithStyle
         ?.restaurants;
     setListOfRestaurants(vai);
     setFilteredRestaurant(vai);
